@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Group",
+        "name": "routes",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "sWK2lcUfX1rFBn5H"
+    },
+    {
+        "type": "File",
+        "name": "/Users/Lino/Web Development/2. Courses/1. Max Schwarzmuller/Master Node JS, build REST APIs with Node.js, GraphQL APIs./code/routes/admin.js",
+        "parent_id": "sWK2lcUfX1rFBn5H",
+        "workspaceRoot": "/Users/Lino/Web Development/2. Courses/1. Max Schwarzmuller/Master Node JS, build REST APIs with Node.js, GraphQL APIs./code",
+        "workspacePath": "routes/admin.js",
+        "id": "jiegsUTN6h7lbWoV"
+    }
+]
